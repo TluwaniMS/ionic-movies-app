@@ -1,0 +1,7 @@
+{
+  "name": "ioni-kinekor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
